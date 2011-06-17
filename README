@@ -1,0 +1,13 @@
+This is a Maven-ized fork of the Echo Nest API Java Client (AKA jEN).
+
+The original is at: http://code.google.com/p/jen-api/
+
+Notes:
+
+* Current as of Revision 66 of the original project (June 17, 2011).
+* Requires Java 5.
+* I did not edit the source files at all and can take no credit for things you like or don't like about it :)
+* Please report any issues to the original project.
+* Tests are disabled in the pom, and will probably not work for you as they require files that do not exist in the original project.
+* I have verified that the project builds and am using it myself.
+* I have not run any of the included shell scripts.
